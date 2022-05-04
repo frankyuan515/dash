@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Frank Yuan",
+      "email": "frank@gmail.com"
+    },
+    {
+      "text": "good ",
+      "email": "good@good.finish",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "TV",
+      "description": "a second hand LED TV",
+      "cost": "1500"
+    },
+    {
+      "id": 2,
+      "title": "Soffa",
+      "description": "a grey colored soffa",
+      "cost": "5000"
+    },
+    {
+      "id": 3,
+      "title": "Book",
+      "description": "textbook for computer science",
+      "cost": "450"
+    },
+    {
+      "id": 4,
+      "title": "Bed",
+      "description": "a king-size bed without Gravel",
+      "cost": "990"
+    }
+  ]
+}
